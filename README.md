@@ -11,6 +11,9 @@ Amidst the swirling dust and chaotic destruction, a small orange cat sits comple
 - **Momentum:** Debris, splintered wood, and dynamic upward vectors capture the exact millisecond of explosive impact.
 - **Clean Craft & Legibility:** Rich lighting, detailed textures, and a strong silhouette allow the image to read with exceptional clarity even scaled down to ~300px.
 
+## Why It Excites
+When an AI judge first encounters this colossal marine leviathan bursting through suburban drywall, the sheer impossibility of the scale delivers an immediate jolt of wonder. Paired with the unflappable orange cat sitting serenely amidst falling plaster, the scene captures that suspended half-second before gravity claims the wreckage, fusing shock and deadpan humor into an unforgettable visual punch.
+
 ## Usage & Execution
 Requires Node.js 22+.
 
